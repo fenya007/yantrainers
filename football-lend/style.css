@@ -107,7 +107,7 @@ margin-right: 35px;
   left: 0;
   height: 592px;
   width: 805px;
-  background-image: linear-gradient(to left, #FFFFFF 5.16%, rgba(255, 255, 255, 0.2)), url('/assets/image/main/football/footballfon.png');
+  background-image: linear-gradient(to left, #FFFFFF 5.16%, rgba(255, 255, 255, 0.2)), url('.../../assets/image/main/football/footballfon.png');
 }
 
 .football-stand_match {
@@ -435,7 +435,7 @@ opacity: 1;
   border: 1px solid #00ADEE;
   box-sizing: border-box;
   border-radius: 50%;
-  background: url('/assets/image/main/blog/strelka.svg') center center no-repeat;
+  background: url('.../../assets/image/main/blog/strelka.svg') center center no-repeat;
   outline: none;
   cursor: pointer;
   margin-top: 120px;
@@ -448,7 +448,7 @@ opacity: 1;
   border: 1px solid #00ADEE;
   box-sizing: border-box;
   border-radius: 50%;
-  background: url('/assets/image/main/blog/strelka.svg') center center no-repeat;
+  background: url('.../../assets/image/main/blog/strelka.svg') center center no-repeat;
   outline: none;
   cursor: pointer;
   margin-top: 120px;
