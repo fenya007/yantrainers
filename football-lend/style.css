@@ -943,7 +943,7 @@ opacity: 1;
     top:436px;
     width:360px;
     height: 388px;
-    background-image: linear-gradient(to bottom, #FFFFFF 5.16%, rgba(255, 255, 255, 0.5)), url('/assets/image/main/football/footballfon2.svg') ;
+    background-image: linear-gradient(to bottom, #FFFFFF 5.16%, rgba(255, 255, 255, 0.5)), url('.../../assets/image/main/football/footballfon2.svg') ;
     background-size: 360px 388px;
     border: 1px solid #ffffff;
   }
